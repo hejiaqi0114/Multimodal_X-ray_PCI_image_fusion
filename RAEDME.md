@@ -1,5 +1,5 @@
 <div align="center">
-# 👉 Image fusion Techniques for multimodal X-ray phase contrast imaging 👈
+<h1>👉 Image fusion Techniques for multimodal X-ray phase contrast imaging 👈<h1>
 </div>
 
 ## Introduction
